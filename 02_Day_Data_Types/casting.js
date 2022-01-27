@@ -11,8 +11,6 @@ console.log(numInt) // 10
 numInt = +num
 console.log(numInt) // 10
 
- 
-
 //string to float
 let num2 = '12.55'
 let numFloat = parseFloat(num2)
