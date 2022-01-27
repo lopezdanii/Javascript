@@ -6,6 +6,7 @@ console.log(`${cadNum==num1}`) //compruebo si los valores son iguales
 
 //llos tipos son distintos pero su valor si da lo mismo
 
+
 //2-  comprobar si parseFloat('9.8') es igual a 10
 let pFL=parseFloat('9.8')
 console.log(pFL) // 9.8 no es igual
