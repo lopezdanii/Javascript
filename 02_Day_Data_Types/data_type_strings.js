@@ -149,7 +149,6 @@ console.log(string5.search('love'))          // 2
 console.log(string5.search(/javascript/gi))  // 7
 //g significa buscar en todo el texto- global; i no tiene en cuenta mayus o minus
 
-
 //17 match() devuelve un array si existe coincidencia con el patron
 //o subcadena pasada por argumento, si no devuelve null
 let mat = 'love is love.'
