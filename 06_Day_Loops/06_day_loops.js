@@ -1,6 +1,7 @@
 //Bucles o loops para realizar tareas repetitivas
 //varios tipos de bucles
 
+
 //BUCLE FOR
 for(let i=0;i<=5;i++){
     console.log(i)
